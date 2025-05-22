@@ -1,4 +1,4 @@
-# Whatsapp_Profil_black
+# Whatsapp_Profil_block
 Browser extension to block profile pictures in whatsapp web
 
 כדי להפעיל את התוסף יש להוריד את כל הקבצים אל תיקיה חדשה שתיצרו במקום סצפיפי במחשב (חשוב שלא למחוק אחר כך את הקבצים) ולהיכנס ל chrome://extensions/ בדפדפן, ואז לאפשר את מצב מפתחים כפי שמופיע התמונה הבאה
